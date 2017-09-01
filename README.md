@@ -1,2 +1,3 @@
 # hello-world
-noddy projcct
+noddy project
+blah-de-blah
